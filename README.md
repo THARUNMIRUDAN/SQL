@@ -1,7 +1,9 @@
 SQL Database Projects
+
 This repository contains a collection of SQL database projects.
 
 Usage
+
 Each project typically includes SQL script files for database creation, table creation, and data population. To use these projects, follow these steps:
 
 Database Setup:
